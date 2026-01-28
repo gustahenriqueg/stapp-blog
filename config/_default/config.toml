@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "https://gustahenriqueg.github.io/blog-ggdevops/"
+baseurl      = "https://proud-glacier-08f3d8310.2.azurestaticapps.net/"
 languageCode = "en-us"
 title        = "Gustavo Silva - ggdevops"
 
